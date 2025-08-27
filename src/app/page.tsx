@@ -80,6 +80,4 @@ const Home = () => {
         </main>
     )
 }
-export default Page
-
-export default Home;
+export default Home
