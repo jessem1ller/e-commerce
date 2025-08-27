@@ -25,7 +25,7 @@ export default function Navbar({
     { label: "Contact", href: "#" },
   ],
   cartCount,
-  logoSrc = "/logo.svg",
+  logoSrc = "/logo-black.svg",
 }: NavbarProps) {
   const [open, setOpen] = useState(false);
 
